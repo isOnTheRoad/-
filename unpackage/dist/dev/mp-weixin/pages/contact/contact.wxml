@@ -1,0 +1,1 @@
+<view class="contact"><image class="img" src="../../static/picture/us.jpg"></image><view class="info"><view data-event-opts="{{[['tap',[['call',['$event']]]]]}}" bindtap="__e">联系电话：1234567890（点击拨打）</view><view>地址：四川省成都市马尼拉县稻香村</view></view><map class="map" longitude="104.065850" latitude="30.657361"></map></view>
